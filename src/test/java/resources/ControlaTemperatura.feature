@@ -18,7 +18,4 @@ Feature: ControlaTemperatura
     Scenario: entram 10 pessoas da sala
     Given existem 0 pessoas na sala e a temperatura ambiente está constante
     When 10 pessoa entram
-    Then o ar condicionado aumenta o frio 
- 	
- 	
- 	
+    Then o ar condicionado aumenta o frio 	

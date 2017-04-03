@@ -8,7 +8,6 @@ import cucumber.api.java.en.When;
 public class ControlaTemperaturaTest {
 	@Given("^existem (\\d+) pessoas na sala$")
 	public void existem_pessoas_na_sala(int arg1) throws Throwable {
-		// Write code here that turns the phrase above into concrete actions
 		throw new PendingException();
 	}
 

@@ -1,5 +1,5 @@
-package main;
+package arCondicionado;
 
 public class ArCondicionado {
-
+	
 }
